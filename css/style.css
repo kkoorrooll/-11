@@ -269,7 +269,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url('../img/top-bg.jpg');
+	background: url('../img/top-bg.png');
 	background-size: 1500px;
 }
 .intro .overlay {
@@ -752,4 +752,3 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
         padding: 350px 0 150px 0;
     }
 }
-
